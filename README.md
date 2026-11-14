@@ -76,6 +76,7 @@ A modern, responsive, and interactive personal portfolio website for **Mehedi Ho
 
 1. **Clone the repository or open the project folder**:
    ```bash
+   git clone https://github.com/MehdiHossenFahim/mhf-portfolio.git
    cd "mhf-portfolio"
    ```
 

@@ -6,7 +6,7 @@ export const personalInfo = {
   email: "mehdihossenfahim@gmail.com",
   phone: "+880 1567-892416",
   location: "Dhaka, Bangladesh",
-  portfolioUrl: "https://portfolio-mehedi-hossen-fahim.vercel.app/",
+  portfolioUrl: "https://mhf-portfolio.vercel.app/",
   github: "https://github.com/MehdiHossenFahim",
   linkedin: "https://www.linkedin.com/in/mehedihossenfahim/",
   facebook: "https://facebook.com/mehedihossenfahim",
@@ -111,7 +111,7 @@ export const projects = [
       "Full English and Bengali natural language support for civic queries",
       "Asynchronous FastAPI inference backend on Render paired with React 18 on Vercel"
     ],
-    liveUrl: "https://portfolio-mehedi-hossen-fahim.vercel.app/",
+    liveUrl: "https://mhf-portfolio.vercel.app/",
     githubUrl: "https://github.com/MehdiHossenFahim/bilingual-citizen-assistant",
     gradient: "from-blue-600 to-cyan-500",
     icon: "Bot"
